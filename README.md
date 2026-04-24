@@ -49,3 +49,20 @@ This project highlights how exposed services and weak passwords can create secur
 - Security investigation
 - Threat identification
 - Defensive thinking
+
+- ## Screenshots
+
+### UDP Scan Output
+![UDP Scan Output](udp-scan-nmap.png)
+
+### Wireshark UDP Traffic Capture
+![Wireshark UDP Capture](wireshark-udp-capture.png)
+
+### Service Enumeration Results
+![Service Enumeration Results](service-enumeration-results.png)
+
+### SSH Brute Force Result
+![SSH Brute Force Result](ssh-bruteforce-hydra.png)
+
+## Full Presentation
+[View the full project presentation](Vedant_Security_Presentation.pptx)
